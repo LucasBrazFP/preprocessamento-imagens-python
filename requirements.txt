@@ -1,3 +1,8 @@
-dotenv
+python-dotenv
 pathlib
 pillow
+opencv-python
+numpy
+kagglehub
+rembg
+onnxruntime
